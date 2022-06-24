@@ -1,0 +1,19 @@
+word=input("Enter an word ")
+large_word=word.upper()
+for x in large_word:
+    if x == "A":
+        continue
+
+    elif x == "E":
+        continue 
+    
+    elif x == "I":
+        continue 
+    
+    elif x == "O":
+        continue 
+    
+    elif x == "U":
+        continue 
+    print(x)
+
